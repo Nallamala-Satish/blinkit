@@ -11,7 +11,7 @@
   "license": "ISC",
   "description": "",
   "engines": {
-    "node": ">=14.20.1"
+    "node": "20.x"
   },
   "dependencies": {
     "bcryptjs": "^2.4.3",
